@@ -3,7 +3,7 @@ const Github = require('github-api-node')
 
 var github = new Github({
   username: "goloschaingear",
-  password: "2e5e40e47347f186ee3459608ad46336af8be491",
+  password: "",
   auth: "basic"
 });
 
