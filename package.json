@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "github-api-node": "^0.11.2",
-    "golos-js": "^0.5.28"
+    "github-webhook-handler": "^0.6.0",
+    "golos-js": "^0.5.28",
+    "octonode": "^0.9.1",
+    "ws": "^3.2.0"
   }
 }
